@@ -44,7 +44,6 @@ import java.io.StringWriter
  * - Week 7: Add toggle, inline edit
  * - Week 8: Add pagination, search
  */
-
 fun Route.taskRoutes() {
     val pebble =
         PebbleEngine
